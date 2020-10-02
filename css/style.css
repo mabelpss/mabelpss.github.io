@@ -266,8 +266,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 768px) {
   .section-heading h3 {
-    font-size: 24px !important;
-    line-height: 34px;
+    font-size: 20px !important;
+    line-height: 30px;
   }
 }
 
